@@ -1777,3 +1777,11 @@ h2.agileits-title {
     opacity: 0;
   }
   
+
+.panel-text{
+        display: inline-block;
+        font-size: 1.1em;
+        color: #999;
+        margin-top: 1.5em;
+        font-weight: 100;
+}
